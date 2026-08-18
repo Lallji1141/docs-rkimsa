@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-k7ztk0.indocuan-vip.sbs/sitemap.xml
